@@ -1,0 +1,18 @@
+body{
+    direction: rtl;
+    background-image:url("../image/mm.jpg");
+    background-size:cover;   
+    color:white;
+    text-shadow:3px 3px 5px green;
+}
+
+#sop-content{
+    line-height:2em;
+    margin-right: 50px;
+    font-size: 20px;
+    
+}
+header{
+    font-size: 25px;
+    font-style: italic;
+}
